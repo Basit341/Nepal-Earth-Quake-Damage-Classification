@@ -4,4 +4,4 @@ To increase the accuracy of the the model the hyper parameter tunning has done b
 <br>
 The data is gathered from kaggle and the link of the data is:
 <be>
-(/kaggle/input/earthquake-magnitude-damage-and-impact)
+[Earth Quake Damage and impact](/kaggle/input/earthquake-magnitude-damage-and-impact)
